@@ -1,0 +1,15 @@
+.imagesStyle1{
+	background: url(images/Gmap.jpg) no-repeat;
+	height: 400px;
+	transition: 1s;
+}
+.imagesStyle2{
+	background: url(images/place1.jpeg) no-repeat;
+	height: 400px;
+	transition: 1s;
+}
+.imagesStyle3{
+	background: url(images/rev.jpg) no-repeat;
+	height: 400px;
+	transition: 1s;
+}
